@@ -7,4 +7,4 @@ Các file chính:
 - sentiment_rules.csv: luật có vế phải là sentiment.
 
  Các thư viện cần cài đặt:
-pandas, matplotlib
+pandas, matplotlib, itertools, collections
