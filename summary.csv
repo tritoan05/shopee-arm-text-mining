@@ -1,0 +1,2 @@
+﻿raw_rows,unique_reviews,valid_transactions,num_unique_items,num_frequent_itemsets,num_association_rules,num_sentiment_rules,min_support,min_confidence,min_lift,max_len,label_0_raw,label_1_raw,label_0_unique,label_1_unique,label_0_valid,label_1_valid
+12600,5801,3622,43,75,51,24,0.025,0.55,1.0,3,5045,7555,2150,3651,888,2734

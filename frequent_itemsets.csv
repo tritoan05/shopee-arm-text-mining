@@ -1,0 +1,76 @@
+﻿itemsets,support,count,length
+sentiment_positive,0.7548315847598012,2734,1
+kw_đẹp,0.3412479293208172,1236,1
+"kw_đẹp, sentiment_positive",0.3169519602429597,1148,2
+sản_phẩm_đẹp,0.3009387078961899,1090,1
+"kw_đẹp, sản_phẩm_đẹp",0.2940364439536168,1065,2
+"sentiment_positive, sản_phẩm_đẹp",0.27829928216454997,1008,2
+"kw_đẹp, sentiment_positive, sản_phẩm_đẹp",0.27167310877967976,984,3
+sentiment_nonpositive,0.24516841524019878,888,1
+kw_tốt,0.2432357813362783,881,1
+"kw_tốt, sentiment_positive",0.22087244616234125,800,2
+giá_rẻ_hợp_lý,0.1154058531198233,418,1
+"giá_rẻ_hợp_lý, sentiment_positive",0.09745996686913308,353,2
+kw_nhanh,0.0935946990612921,339,1
+"kw_nhanh, sentiment_positive",0.0842076200993926,305,2
+đúng_mô_tả,0.08034235229155164,291,1
+âm_thanh_tốt,0.07454445057979017,270,1
+giao_hàng_nhanh,0.07123136388735506,258,1
+màu_sắc_đẹp,0.06819436775262286,247,1
+kw_rẻ,0.06432909994478189,233,1
+kw_ổn,0.06350082827167311,230,1
+"giao_hàng_nhanh, sentiment_positive",0.06322473771397018,229,2
+chất_lượng_tốt,0.06046383213694092,219,1
+"sentiment_positive, âm_thanh_tốt",0.05963556046383214,216,2
+"giao_hàng_nhanh, kw_nhanh",0.05935946990612921,215,2
+chất_liệu_mỏng,0.059083379348426286,214,1
+"kw_rẻ, sentiment_positive",0.05797901711761458,210,2
+kw_mỏng,0.05770292655991165,209,1
+"chất_liệu_mỏng, kw_mỏng",0.05770292655991165,209,2
+"giao_hàng_nhanh, kw_nhanh, sentiment_positive",0.05438983986747653,197,3
+"sentiment_positive, đúng_mô_tả",0.053561568194367755,194,2
+"kw_tốt, kw_đẹp",0.05328547763666482,193,2
+"kw_tốt, kw_đẹp, sentiment_positive",0.051628934290447265,187,3
+review_nhận_xu,0.04969630038652678,180,1
+"chất_lượng_tốt, sentiment_positive",0.048868028713418,177,2
+"kw_tốt, sản_phẩm_đẹp",0.04831584759801215,175,2
+shop_tốt,0.04831584759801215,175,1
+"sentiment_positive, shop_tốt",0.047487575924903366,172,2
+"kw_tốt, kw_đẹp, sản_phẩm_đẹp",0.046935394809497516,170,3
+"kw_tốt, sentiment_positive, sản_phẩm_đẹp",0.04638321369409166,168,3
+"kw_ổn, sentiment_positive",0.04555494202098288,165,2
+sẽ_mua_lại,0.04307012700165654,156,1
+mùi_hương_tốt,0.04113749309773606,149,1
+"chất_lượng_tốt, kw_tốt",0.04003313086692435,145,2
+kw_êm,0.03865267807840972,140,1
+"sentiment_positive, sẽ_mua_lại",0.03865267807840972,140,2
+"kw_êm, sentiment_positive",0.03754831584759801,136,2
+"chất_lượng_tốt, kw_tốt, sentiment_positive",0.037272225289895086,135,3
+"màu_sắc_đẹp, sentiment_nonpositive",0.034235229155162895,124,2
+"màu_sắc_đẹp, sentiment_positive",0.03395913859745997,123,2
+"review_nhận_xu, sentiment_nonpositive",0.03368304803975704,122,2
+"giá_rẻ_hợp_lý, kw_đẹp",0.03285477636664826,119,2
+"chất_liệu_mỏng, sentiment_nonpositive",0.03202650469353948,116,2
+"kw_mỏng, sentiment_nonpositive",0.0311982330204307,113,2
+"chất_liệu_mỏng, kw_mỏng, sentiment_nonpositive",0.0311982330204307,113,3
+"giá_rẻ_hợp_lý, kw_rẻ",0.030646051905024847,111,2
+"giá_rẻ_hợp_lý, kw_đẹp, sentiment_positive",0.030369961347321922,110,3
+"kw_rẻ, kw_đẹp",0.02898950855880729,105,2
+"giá_rẻ_hợp_lý, sản_phẩm_đẹp",0.02871341800110436,104,2
+"giá_rẻ_hợp_lý, kw_đẹp, sản_phẩm_đẹp",0.02816123688569851,102,3
+"mùi_hương_tốt, sentiment_positive",0.02816123688569851,102,2
+"kw_nhanh, kw_đẹp",0.02788514632799558,101,2
+"giá_rẻ_hợp_lý, kw_rẻ, sentiment_positive",0.02788514632799558,101,3
+"giá_rẻ_hợp_lý, kw_tốt",0.027332965212589728,99,2
+"chất_liệu_mỏng, sentiment_positive",0.027056874654886803,98,2
+"kw_rẻ, kw_đẹp, sentiment_positive",0.027056874654886803,98,3
+"sentiment_nonpositive, đúng_mô_tả",0.026780784097183877,97,2
+kw_vừa,0.02650469353948095,96,1
+"kw_mỏng, sentiment_positive",0.02650469353948095,96,2
+"chất_liệu_mỏng, kw_mỏng, sentiment_positive",0.02650469353948095,96,3
+"kw_nhanh, sản_phẩm_đẹp",0.026228602981778024,95,2
+"kw_nhanh, kw_đẹp, sản_phẩm_đẹp",0.026228602981778024,95,3
+"kw_nhanh, kw_đẹp, sentiment_positive",0.026228602981778024,95,3
+"giá_rẻ_hợp_lý, sentiment_positive, sản_phẩm_đẹp",0.026228602981778024,95,3
+"giá_rẻ_hợp_lý, kw_tốt, sentiment_positive",0.02567642186637217,93,3
+"kw_rẻ, sản_phẩm_đẹp",0.025124240750966316,91,2
